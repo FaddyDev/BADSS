@@ -1,3 +1,7 @@
+Bursary-Allocation-Decision-Support-System
+
+Helps in picking qualified applicants to receive bursary.
+
 ###################
 What is CodeIgniter
 ###################
